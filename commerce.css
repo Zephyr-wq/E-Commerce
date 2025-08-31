@@ -66,3 +66,39 @@ div.num-8{
     color: black;
     background-color: white;
 }
+
+.fixed-height{
+    height: 447px;
+}
+
+.fixed{
+    height: 829px;
+}
+
+.adjust{
+    height: 277px;
+}
+
+.hmm{
+    height: 514px;
+}
+
+.splash{
+    height: 564px;
+}
+
+.holy{
+    height: 322px;
+}
+
+.fuck{
+    height: 245px;
+}
+
+.shit{
+    height: 225px;
+}
+
+.help{
+    background-color: #FFE7E9;
+}
